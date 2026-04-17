@@ -3,6 +3,11 @@
 A web-based competitive Pokémon scouting and preparation tool designed to replace messy spreadsheets with a fast, visual, and intuitive interface.
 
 👉 Live App: https://sarctechie.tech/prep
+<img width="1220" height="874" alt="image" src="https://github.com/user-attachments/assets/daa82f67-aca1-4103-ba3e-7be99abb42c4" />
+
+
+<img width="984" height="746" alt="image" src="https://github.com/user-attachments/assets/085504b0-6a03-4a3c-ba91-36e5b90d0ad7" />
+
 
 ---
 
