@@ -3,13 +3,13 @@ import { getAuth, GoogleAuthProvider, setPersistence, browserLocalPersistence } 
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDSbM8B7ts6z2-BL4kgMbCBB7OH0tEAalA",
-  authDomain: "draft-tracker-c0078.firebaseapp.com",
-  projectId: "draft-tracker-c0078",
-  storageBucket: "draft-tracker-c0078.firebasestorage.app",
-  messagingSenderId: "1061965437180",
-  appId: "1:1061965437180:web:88fdb00c24f51d12f5df79",
-  measurementId: "G-9WQ2WMPP8Y"
+  apiKey: "ENTER YOUR API KEY",
+  authDomain: "ENTER YOUR AUTH DOMAIN",
+  projectId: "PROJECT ID",
+  storageBucket: "YOU GET IT",
+  messagingSenderId: "GOODBOY",
+  appId: "IDK WHAT TO SAY",
+  measurementId: "SUP?"
 };
 
 const app = initializeApp(firebaseConfig);
